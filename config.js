@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Em biết mà 🥰. Yêu anh nhiều nhiều 😘😘',
     messDesc: 'Cứ mỗi phút mỗi giây em lại cảm thấy yêu anh nhiều và nhiều hơn nữa.Happy Birthday',
-    btnAccept: 'Hy vọng năm sau được đón sinh nhật cùng anh nhé <3',
+    btnAccept: 'Hi vọng năm sau được đón sinh nhật cùng anh nhé <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
