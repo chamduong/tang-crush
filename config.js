@@ -7,13 +7,16 @@ const CONFIG = {
     btnIntro: 'hihi',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là yêu em <33',
-    btnNo: 'Không, em yêu à :3',
+    btnYes: 'yêu em nhiều lắmmmmmm',
+    btnNo: 'Không yêu cũng phải yêuuuuuu:3',
     question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu em <3',
     btnReply: 'Gửi cho em <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Em biết mà 🥰. Yêu anh nhiều nhiều 😘😘',
-    messDesc: 'Happy birth dayday.',
+    messDesc: 'Congrattulations to your parentsto have given birth to such a cute person many years ago on this day.',
+      messDesc:' Your Birthday reminds me that you are the only boy I wantto spend my life with.'
+      messDesc :' Happy Birthday, darling.'
+    
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
